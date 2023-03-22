@@ -1,3 +1,21 @@
-body{
-    background-color: white;
-}
+.lesson {
+    background-color: lemonchiffon;
+    
+  }
+  
+  .header {
+    color: darkblue;
+  }
+  
+  #email {
+    background-color: goldenrod;
+  }
+  
+  #github {
+    background-color: lightsteelblue;
+  }
+  
+  #portfolio {
+    background-color: darkorange;
+  }
+  
